@@ -32,13 +32,13 @@ The following EXTRA features are implemented:
 
 ## API Choice
 
-My chosen API for this project is[(http://www.omdbapi.com/?i=tt3896198&apikey=c06da25a)].
+My chosen API for this project is[http://www.omdbapi.com/?i=tt3896198&apikey=c06da25a].
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc4OWl0a2hjYmNmY2FrZGoweTY0NXU5ODdkenhmZnlpZjlwZGdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JKHuILTzvs0wND4ipC/giphy.gif)' title='Video Demo' width='' alt='Video Demo' />
+<img src='[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc4OWl0a2hjYmNmY2FrZGoweTY0NXU5ODdkenhmZnlpZjlwZGdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JKHuILTzvs0wND4ipC/giphy.gif] title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with Giphy
 
